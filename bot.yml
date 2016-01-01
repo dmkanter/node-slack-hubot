@@ -1,4 +1,4 @@
-name: nodebot
+name: nodebot-hubot
 description: A simple hubot based node bot sample for Beep Boop
 avatar: hubot.png
 config:
